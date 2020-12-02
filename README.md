@@ -1,10 +1,2 @@
 # helloworld
 
-AIMS for doc uploading:
-https://indiaapps.in.capgemini.com/Aspxpages/frmAuthentication.aspx
-
-Visa Application form:
-https://webmail.in.capgemini.com/owa/redir.aspx?SURL=QEmKd4baOhRAW4bY60P5rHQhPnCC9jaVjze7sQ9AnpNq3LUFI6nVCGgAdAB0AHAAcwA6AC8ALwB3AHcAdwAuAHUAZABhAGEAbgBpAG4AZABpAGEALgBjAG8AbQAvAFYAaQBzAGEATQBhAHMAdABlAHIAcwBNAG8AZAB1AGwAZQAvAFYAaQBzAGEARABvAGMAcwAvAEQAbwBjAHMAXwAyADIANgA1AC8AQwBoAGkAbgBhACUAMgAwAFYAaQBzAGEAJQAyADAAQQBwAHAAbABpAGMAYQB0AGkAbwBuACUAMgAwAEYAbwByAG0ALgBwAGQAZgA.&URL=https%3a%2f%2fwww.udaanindia.com%2fVisaMastersModule%2fVisaDocs%2fDocs_2265%2fChina%2520Visa%2520Application%2520Form.pdf
-
-http://www.udaanindia.com/VisaMastersModule/VisaDocs/Docs_2265/China%20Visa%20Application%20Form.pdf
-
